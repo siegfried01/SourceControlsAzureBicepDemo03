@@ -35,6 +35,6 @@ jobs:
       with:
         app-name: txtwjhjyzhuua-web-site
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB144DB47E13419FB8BD32DA107EDFAB }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F5F46746729F4D71A57BBA74D226F5D7 }}
         package: \published\
 
